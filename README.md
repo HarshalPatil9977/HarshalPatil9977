@@ -63,7 +63,7 @@ A passionate Web Developer having an experience of building Websites with HTML, 
 <br>
 
 
-  <img align="right" alt="GIF" src="harsh.png" />
+
   
 ## 🕸️ Web Development
 
